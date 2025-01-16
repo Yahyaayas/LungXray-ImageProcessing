@@ -1,10 +1,10 @@
 # Chest X-Ray Segmentation using U-Net
 
 ## Our Team
-Danish Dhiaurrahman Ritonga (22/492936/TK/53966)	
-Muhamad Bintang Harry Dharmawan (22/502957/TK/54927)
-Yahya Ayas Firdausi (22/503609/TK/55039)
-Ariq Fadhilah Jeha (22/504174/TK/55127)
+- Danish Dhiaurrahman Ritonga (22/492936/TK/53966)	
+- Muhamad Bintang Harry Dharmawan (22/502957/TK/54927)
+- Yahya Ayas Firdausi (22/503609/TK/55039)
+- Ariq Fadhilah Jeha (22/504174/TK/55127)
 
 ## Project Overview
 This project focuses on the segmentation of lung regions from chest X-ray images using the U-Net architecture. It aims to assist medical professionals by automating the analysis of chest X-ray images, potentially improving diagnostic accuracy and reducing workload.
